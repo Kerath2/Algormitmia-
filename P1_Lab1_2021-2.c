@@ -1,4 +1,4 @@
-/* Solución elaborada por Gerardo Tacay
+/* Solución elaborada por Gerardo Miguel  Tacay Terrazos
 Datos de entrada:
 4
 23

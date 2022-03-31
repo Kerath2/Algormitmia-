@@ -2,7 +2,7 @@
 
 int main(){
 
-    int key = 17;
+    int key = 29;
     int arr[7] = {89,45,68,90,29,34,17};
     int n = 7;
 

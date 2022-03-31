@@ -12,12 +12,12 @@ int main(){
 
    Punto arrPuntos[4];
 
-    arrPuntos[0].x = 0;
-    arrPuntos[0].y = 0;
-    arrPuntos[1].x = 1;
-    arrPuntos[1].y = 4;
-    arrPuntos[2].x = 3;
-    arrPuntos[2].y = 0;
+    arrPuntos[0].x = 1;
+    arrPuntos[0].y = 4;
+    arrPuntos[1].x = 0;
+    arrPuntos[1].y = 0;
+    arrPuntos[2].x = 39;
+    arrPuntos[2].y = 20;
     arrPuntos[3].x = 0;
     arrPuntos[3].y = -5;
 

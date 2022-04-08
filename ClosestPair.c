@@ -28,6 +28,7 @@ int main(){
     for (int i = 1 ; i <= n-1 ; i++ ){
         for(int j = i +1 ; j <= n ; j++){
             d = (arrPuntos[i].x - arrPuntos[j].x)^2 + (arrPuntos[i].y - arrPuntos[j].y)^2;
+            printf("%d\n",d);
             if (d < dmenor){
                 dmenor = d;
                 i1 = i;
